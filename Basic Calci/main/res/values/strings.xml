@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="no_text"> </string>
+    <string name="sin_sign">sin</string>
+    <string name="cos_sign">cos</string>
+    <string name="tan_sign">tan</string>
+    <string name="natural_log">ln</string>
+    <string name="log">log</string>
+    <string name="cube_root">3√</string>
+    <string name="cube">n^3</string>
+    <string name="x_power_y">x^y</string>
+    <string name="square_root">√</string>
+    <string name="x_square">x^2</string>
+    <string name="percent">%</string>
+    <string name="open_bracket">(</string>
+    <string name="close_bracket">)</string>
+    <string name="seven_button">7</string>
+    <string name="eight_button">8</string>
+    <string name="nine_button">9</string>
+    <string name="clear">AC</string>
+    <string name="factorial">!</string>
+    <string name="four_button">4</string>
+    <string name="five_button">5</string>
+    <string name="six_button">6</string>
+    <string name="multiplication">x</string>
+    <string name="division">/</string>
+    <string name="pi">π</string>
+    <string name="one_button">1</string>
+    <string name="two_button">2</string>
+    <string name="three_button">3</string>
+    <string name="addition">+</string>
+    <string name="subtraction">-</string>
+    <string name="zero_button">0</string>
+    <string name="dot">.</string>
+    <string name="history">H</string>
+    <string name="CH">CH</string>
+    <string name="equal_sign">=</string>
+    <string name="x_value">x</string>
+    <string name="asterisk">*</string>
+</resources>
